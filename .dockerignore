@@ -1,0 +1,8 @@
+.env
+
+tmp
+.air.toml
+.dockerignore
+.gitignore
+Dockerfile
+Makefile
